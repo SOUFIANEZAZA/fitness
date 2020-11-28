@@ -14,9 +14,9 @@ from BotData.ConfiG import *
 #Men@c
 bot = Bot(
     max_likes_per_day=400,
-    max_follows_per_day=240,
-    max_unfollows_per_day=240,
-    max_messages_per_day=100,
+    max_follows_per_day=100,
+    max_unfollows_per_day=100,
+    max_messages_per_day=50,
     max_comments_per_day=100,
     min_likes_to_like=10,
     max_likes_to_like=10000000,
@@ -27,7 +27,7 @@ bot = Bot(
     )
 #hashtag list to tag in a media
 hashtagList = [
-            '#casablanca'
+            '#fitness'
 ]
 
 #Program For Unfollow Everyone
@@ -88,7 +88,7 @@ def ig_masslooker():
                     bot.logger.info("Total stories viewed: %d" % bot.total["stories_viewed"])
 
                 # CHOOSE RANDOM LIKER TO GRAB HIS LIKERS AND REPEAT
-                countdown(30)
+                countdown(60)
             except Exception as e:
                 # If something went wrong - sleep long and start again
                 bot.logger.info(e)
