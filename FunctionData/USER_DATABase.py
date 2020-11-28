@@ -12,14 +12,14 @@ USERID_FOR_MASSLOOKER = [
     ]
 
 USERID_FOR_INSHACKLE = [
-"chouftv_official",
-    "hespress",
-    "welovebuzzar",
-    "kawtarbamo",
-    "rajaabelmir",
-    "reda_elwahabii",
-    "omarbelmir",
-    "adiltaouil",
-    "meryemasouab",
-    "manalbenchlikha",
+"ulissesworld",
+    "andreideiu_",
+    "sergiconstance",
+    "jeremy_buendia",
+    "simeonpanda",
+    "sadikhadzovic",
+    "kaigreene",
+    "philheath",
+    "big_ramy",
+    "ronniecoleman8",
     ]
