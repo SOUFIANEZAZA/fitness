@@ -21,13 +21,13 @@ bot = Bot(
     min_likes_to_like=10,
     max_likes_to_like=10000000,
     like_delay=30,
-    follow_delay=25,
-    unfollow_delay=25,
+    follow_delay=1,
+    unfollow_delay=1,
     message_delay=2
     )
 #hashtag list to tag in a media
 hashtagList = [
-            '#fitness'
+            '#mytransphormationstartstoday'
 ]
 
 #Program For Unfollow Everyone
