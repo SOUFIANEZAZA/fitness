@@ -32,14 +32,14 @@ USERID_FOR_INSHACKLE = [
     "philheath",
     "big_ramy",
     "jeff_seid",
-    "tavicastro"
-    "zacaynsley"
-    "ryanjterry"
-    "blessing_awodibu"
-    "calumvonmoger"
-    "lazar_angelov_official"
-    "chanelcocobrown"
-    "brandon__curry"
-    "jaycutler"
-    "martynfordofficial"
+    "tavicastro",
+    "zacaynsley",
+    "ryanjterry",
+    "blessing_awodibu",
+    "calumvonmoger",
+    "lazar_angelov_official",
+    "chanelcocobrown",
+    "brandon__curry",
+    "jaycutler",
+    "martynfordofficial",
     ]
