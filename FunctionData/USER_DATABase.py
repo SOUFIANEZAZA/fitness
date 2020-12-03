@@ -1,14 +1,24 @@
 USERID_FOR_MASSLOOKER = [
-"mlkellyyy",
-    "tabbyknightt",
-    "siddhantrao007",
-    "camilla_akerberg",
-    "v.chakir",
-    "positive_card",
-    "jamiedorego_ifbbpro",
-    "_runningmama_",
-    "happy4life_11",
-    "muscleandfitness",
+"ulissesworld",
+    "andreideiu_",
+    "sergiconstance",
+    "jeremy_buendia",
+    "simeonpanda",
+    "sadikhadzovic",
+    "kaigreene",
+    "philheath",
+    "big_ramy",
+    "jeff_seid",
+    "tavicastro"
+    "zacaynsley"
+    "ryanjterry"
+    "blessing_awodibu"
+    "calumvonmoger"
+    "lazar_angelov_official"
+    "chanelcocobrown"
+    "brandon__curry"
+    "jaycutler"
+    "martynfordofficial"
     ]
 
 USERID_FOR_INSHACKLE = [
@@ -21,5 +31,15 @@ USERID_FOR_INSHACKLE = [
     "kaigreene",
     "philheath",
     "big_ramy",
-    "ronniecoleman8",
+    "jeff_seid",
+    "tavicastro"
+    "zacaynsley"
+    "ryanjterry"
+    "blessing_awodibu"
+    "calumvonmoger"
+    "lazar_angelov_official"
+    "chanelcocobrown"
+    "brandon__curry"
+    "jaycutler"
+    "martynfordofficial"
     ]
