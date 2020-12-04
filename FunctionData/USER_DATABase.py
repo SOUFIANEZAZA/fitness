@@ -9,16 +9,6 @@ USERID_FOR_MASSLOOKER = [
     "philheath",
     "big_ramy",
     "jeff_seid",
-    "tavicastro",
-    "zacaynsley",
-    "ryanjterry",
-    "blessing_awodibu",
-    "calumvonmoger",
-    "lazar_angelov_official",
-    "chanelcocobrown",
-    "brandon__curry",
-    "jaycutler",
-    ""
     ]
 
 USERID_FOR_INSHACKLE = [
