@@ -1,5 +1,5 @@
 USERID_FOR_MASSLOOKER = [
-"ulissesworld",
+"martynfordofficial",
     "andreideiu_",
     "sergiconstance",
     "jeremy_buendia",
@@ -18,7 +18,7 @@ USERID_FOR_MASSLOOKER = [
     "chanelcocobrown"
     "brandon__curry"
     "jaycutler"
-    "martynfordofficial"
+    ""
     ]
 
 USERID_FOR_INSHACKLE = [
