@@ -1,6 +1,6 @@
 USERID_FOR_MASSLOOKER = [
-"martynfordofficial",
-    "andreideiu_",
+"soufiane___fit",
+    "fitness_bdarija",
     "sergiconstance",
     "jeremy_buendia",
     "simeonpanda",
