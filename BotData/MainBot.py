@@ -27,7 +27,7 @@ bot = Bot(
     )
 #hashtag list to tag in a media
 hashtagList = [
-            '#mytransphormationstartstoday'
+            '#shoppingonline'
 ]
 
 #Program For Unfollow Everyone
@@ -93,7 +93,7 @@ def ig_masslooker():
                 # If something went wrong - sleep long and start again
                 bot.logger.info(e)
                 current_user_id = user_to_get_likers_of
-                time.sleep(10000 * random.random() + 10000)
+                time.sleep( * random.random() + )
 
         except KeyboardInterrupt:
             break
