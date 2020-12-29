@@ -93,7 +93,7 @@ def ig_masslooker():
                 # If something went wrong - sleep long and start again
                 bot.logger.info(e)
                 current_user_id = user_to_get_likers_of
-                time.sleep( * random.random() + )
+                time.sleep(0 * random.random() + 0)
 
         except KeyboardInterrupt:
             break
@@ -205,10 +205,10 @@ def ig_directmessage():
     print("\u001b[33;1m-------------------------------------------------------\u001b[0m")
     while True:
         try:
-            USER = bot.get_hashtag_users(hashtag="FITNESS")
+            USER = bot.get_hashtag_users(hashtag="shoppingonline")
             USER_IDD = random.choice(USER)
             NAME = bot.get_username_from_user_id(USER_IDD)
-            FULL_TEXT = ("Hi "+NAME+", "+INUsrp_TEXT)
+            FULL_TEXT = ("Hi how are you "+NAME+", "+INUsrp_TEXT)
             bot.send_profile(profile_user_id=bot.user_id,user_ids=USER_IDD,text=FULL_TEXT)
             bot.logger.info("Message Sented to "+ NAME)
             countdown(72000)
